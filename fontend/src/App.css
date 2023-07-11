@@ -1,0 +1,22 @@
+.pozadina {
+  background-color: rgb(59, 12, 12);
+}
+.navigacija {
+  background-color: rgb(223, 104, 104);
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px 0px 10px;
+}
+
+.App {
+  text-align: center;
+  margin: 0px 100px 0px 100px;
+}
+
+.App-header {
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  background-color: white;
+}
